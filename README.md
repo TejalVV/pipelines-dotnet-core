@@ -1,5 +1,5 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
-
+[![Build Status](https://tejalverulkar09.visualstudio.com/AzurePipelineUsingYAMLDemo/_apis/build/status/AzurePipelineUsingYAMLDemo-CI?branchName=master)](https://tejalverulkar09.visualstudio.com/AzurePipelineUsingYAMLDemo/_build/latest?definitionId=3?branchName=master)
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
